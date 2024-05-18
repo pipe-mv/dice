@@ -1,34 +1,29 @@
-body{
-  background-color: #393E46;
-
+body {
+  background-color: #393e46;
 }
 
-p, h1 {
-  color : #42ecf5;
+p,
+h1 {
+  color: #42ecf5;
 }
 
 h1 {
   font-size: 10rem;
-  font-family: 'Lobster', cursive;
+  font-family: "Lobster", cursive;
   padding: 2rem;
   text-align: center;
   margin: 2rem 0;
-
 }
-
-
 
 p {
   text-align: center;
-  font-family: 'Indie Flower', cursive;
+  font-family: "Indie Flower", cursive;
   font-size: 2rem;
   padding: 1rem;
-
 }
 
 footer {
   text-align: center;
-
 }
 
 a {
@@ -41,7 +36,6 @@ a {
   display: flex;
   justify-content: center;
   text-align: center;
-
 }
 
 .dice {
